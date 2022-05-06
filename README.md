@@ -2,7 +2,7 @@
 Simple tools for Upload, Download, create Backup and add your favorites Hosts
 
 
-                  ___ ___ ___ _   _ ___ ___ ___                                 
+     <font color="red">             ___ ___ ___ _   _ ___ ___ ___                                 
                  / __| __/ __| | | | _ \ __|    \                              
                  \__ \ _| (__| |_| |   / _|   |  |                   
                  |___/___\___|\___/|_|_\___| ___/___ ___   
@@ -11,7 +11,7 @@ Simple tools for Upload, Download, create Backup and add your favorites Hosts
                     |_|_|_|_\/_/_\_\_|\_|___/_| |___|_|_\  
                    |_   _/ _ \ / _ \| |  / __|                  
                      | || (_) | (_) | |__\__ \                  
-                     |_| \___/ \___/|____|___/    
+                     |_| \___/ \___/|____|___/    </font>
                      
                      
                      
