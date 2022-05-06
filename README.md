@@ -1,6 +1,6 @@
 # Secured_Transfer_Tools
 Simple tools for Upload, Download, create Backup and add your favorites Hosts
-
+#!/bin/bash
 
                   ___ ___ ___ _   _ ___ ___ ___                                 
                  / __| __/ __| | | | _ \ __|    \                              
@@ -14,10 +14,8 @@ Simple tools for Upload, Download, create Backup and add your favorites Hosts
                      |_| \___/ \___/|____|___/         
                      
                      
-                     >_ 
                      
                      
-                     #!/bin/bash
               
           【 1 】-【 Download 】 # Dowload file/folder with scp protocol
           【 2 】-【  Upload  】 # Upload  file/folder with scp protocol
