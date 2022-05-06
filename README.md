@@ -16,7 +16,7 @@ Simple tools for Upload, Download, create Backup and add your favorites Hosts
                      
                      
               
-                      【 1 】-【 Download 】 # Dowload file/folder with scp protocol
-                      【 2 】-【  Upload  】 # Upload  file/folder with scp protocol
-                      【 3 】-【  Backup  】 # Create Backup .tar or .tar.gz 
-                      【 4 】-【  Pinned  】 # Save your favorite Hosts (securely with gpg)
+          【 1 】-【 Download 】 # Dowload file/folder with scp protocol
+          【 2 】-【  Upload  】 # Upload  file/folder with scp protocol
+          【 3 】-【  Backup  】 # Create Backup .tar or .tar.gz 
+          【 4 】-【  Pinned  】 # Save your favorite Hosts (securely with gpg)
