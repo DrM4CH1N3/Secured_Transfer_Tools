@@ -23,7 +23,7 @@ Simple tools for Upload, Download, create Backup and add your favorites Hosts
           【 4 】-【  Pinned  】 # Save your favorite Hosts (securely with gpg)
 
 
-                ```diff 
+                 
               + ____                _ _                 
                |  _ \ _   _ _ __   (_) |_    ___  _ __  
                | |_) | | | | '_ \  | | __|  / _ \| '_ \ 
@@ -32,7 +32,7 @@ Simple tools for Upload, Download, create Backup and add your favorites Hosts
                    / \   _ __   __| |_ __ ___ (_) __| | 
                   / _ \ | '_ \ / _` | '__/ _ \| |/ _` | 
                  / ___ \| | | | (_| | | | (_) | | (_| | 
-                /_/   \_\_| |_|\__,_|_|  \___/|_|\__,_| ```
+                /_/   \_\_| |_|\__,_|_|  \___/|_|\__,_| 
 
 
 ![Android](https://github.com/DrM4CH1N3/Secured_Transfer_Tools/blob/main/Android_S_F_T.png)
