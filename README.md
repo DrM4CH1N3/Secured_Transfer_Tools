@@ -1,3 +1,10 @@
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 # Secured_Transfer_Tools
 Simple tools for Upload, Download, create Backup and add your favorites Hosts
 #!/bin/bash
