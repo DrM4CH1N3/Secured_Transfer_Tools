@@ -2,7 +2,7 @@
 Simple tools for Upload, Download, create Backup and add your favorites Hosts
 
 
-     <font color="red">             ___ ___ ___ _   _ ___ ___ ___                                 
+                  ___ ___ ___ _   _ ___ ___ ___                                 
                  / __| __/ __| | | | _ \ __|    \                              
                  \__ \ _| (__| |_| |   / _|   |  |                   
                  |___/___\___|\___/|_|_\___| ___/___ ___   
@@ -11,10 +11,13 @@ Simple tools for Upload, Download, create Backup and add your favorites Hosts
                     |_|_|_|_\/_/_\_\_|\_|___/_| |___|_|_\  
                    |_   _/ _ \ / _ \| |  / __|                  
                      | || (_) | (_) | |__\__ \                  
-                     |_| \___/ \___/|____|___/    </font>
+                     |_| \___/ \___/|____|___/         
                      
                      
+                     >_ 
                      
+                     
+                     #!/bin/bash
               
           【 1 】-【 Download 】 # Dowload file/folder with scp protocol
           【 2 】-【  Upload  】 # Upload  file/folder with scp protocol
